@@ -1,1 +1,5 @@
-A demo1 start file - adding lines to create conflict in main
+<<<<<<< HEAD
+A demo start file - adding lines to create conflict in main
+=======
+A demo2 start file - adding lines to create conflict in main
+>>>>>>> a4b1eae (creating conflict for rebase)
